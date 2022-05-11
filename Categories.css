@@ -1,0 +1,38 @@
+img{
+    height: 300px;
+    width: 100%;
+}
+#ts{
+    display: flex;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#di{
+    border-radius: 7px;
+    margin: 10px;
+    border: solid 1px;
+    border-color: palevioletred;
+}
+#b1{
+    background-color: lightblue;
+    border-radius: 5px;
+}
+#b1:hover{
+    text-decoration: underline;
+}
+#b2{
+    background-color: lightblue;
+    border-radius: 5px;
+}
+#b2:hover{
+    text-decoration: underline;
+}
+#b3{
+    background-color: lightblue;
+    border-radius: 5px;
+}
+#b3:hover{
+    text-decoration: underline;
+}
